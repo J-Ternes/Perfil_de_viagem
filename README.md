@@ -53,4 +53,4 @@ Este é um projeto simples de estudo, criado para reforçar os conhecimentos bá
 1. Clone este repositório:
 
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone <https://github.com/J-Ternes/Perfil_de_viagem>
